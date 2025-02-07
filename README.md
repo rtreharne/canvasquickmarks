@@ -3,6 +3,7 @@
 Canvas LMS QuickMarks is a simple Chrome extension that allows users to save, copy, and manage frequently used text snippets with ease when marking assignments in Speed Grader.
 
 [![Video Title](https://img.youtube.com/vi/WjHErJVbjLo/0.jpg)](https://www.youtube.com/watch?v=WjHErJVbjLo)
+Click image to watch video on YouTube.
 
 ## Features
 - Save and store quick marks for repeated use.
