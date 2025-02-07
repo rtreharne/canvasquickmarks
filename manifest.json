@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Quick Marks Extension",
+    "version": "1.0",
+    "description": "Create and edit quick marks, and copy them with one click.",
+    "permissions": [
+      "activeTab"
+    ],
+    "host_permissions": [
+      "https://canvas.liverpool.ac.uk/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://canvas.liverpool.ac.uk/courses/*/gradebook/speed_grader*"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ]
+  }
+  
+
+  
